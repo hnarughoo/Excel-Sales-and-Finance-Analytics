@@ -1,4 +1,4 @@
-![Screenshot 2025-05-18 152103](https://github.com/user-attachments/assets/32c76d92-54b9-4663-a8b2-6fab3734412f)# Excel: Mother of Business Intelligence — Bootcamp Project
+# Excel: Mother of Business Intelligence — Bootcamp Project
 
 This project was completed as part of the **Excel: Mother of Business Intelligence** course on the Codebasics platform, under the guidance of Dhaval Patel Sir and Hemanand Vadivel Sir from [Code Basics](https://codebasics.io).
 
@@ -80,9 +80,32 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 - Designed **Pivot Tables** and interactive dashboards.  
 - Applied conditional formatting, slicers, and filters for user-friendly navigation.  
 - Ensured reports are clear, actionable, and visually appealing for stakeholders.
+---
+## 📊 Excel Reports Preview
 
-![Screenshot 2025-05-18 152103](https://github.com/user-attachments/assets/38a4b872-fcc3-452c-b2ac-79f3f6103902)
+<details>
+  <summary>Click to view report previews</summary>
 
+### 1. Customer Performance Report  
+[![Customer Performance](assets/screenshots/customer-performance.png)](documentation/Customer%20Performance%20Report.pdf)
+
+### 2. Market Performance vs Target Report  
+[![Market Performance](assets/screenshots/market-performance.png)](documentation/Market%20Performance%20vs%20Target%20Report.pdf)
+
+### 3. P&L Statement by Fiscal Year  
+[![P&L Fiscal Year](assets/screenshots/pnl-fiscal.png)](documentation/P&L%20Statement%20by%20Fiscal%20Year.pdf)
+
+### 4. P&L Statement by Quarter  
+[![P&L by Quarter](assets/screenshots/pnl-quarter.png)](documentation/P&L%20Statement%20by%20Quarter%20Report.pdf)
+
+### 5. P&L Statement by Market  
+[![P&L by Market](assets/screenshots/pnl-market.png)](documentation/P&L%20Statement%20by%20Market%20Report.pdf)
+
+</details>
+
+
+
+---
 ---
 
 ## 📈 Key Learnings & Insights
