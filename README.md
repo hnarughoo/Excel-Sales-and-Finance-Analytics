@@ -80,11 +80,9 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 - Designed **Pivot Tables** and interactive dashboards.  
 - Applied conditional formatting, slicers, and filters for user-friendly navigation.  
 - Ensured reports are clear, actionable, and visually appealing for stakeholders.
+  
 ---
 ## 📊 Excel Reports Preview
-
-<details>
-  <summary>Click to view report previews</summary>
 
 ### 1. Customer Performance Report  
 ![1  Customer Performance Report](https://github.com/user-attachments/assets/6925705c-4b88-4704-b2e5-3cacaaf8c506)
@@ -115,36 +113,20 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 
 ## 📂 Folder Structure
 
-<details>
-  <summary>data/</summary>
+### data/
+- Raw and sample data files used in the project.
 
-  - Raw and sample data files used in the project.  
-</details>
+### excel_files/
+- Excel workbooks with Power Query, Power Pivot, Pivot Tables, and DAX examples.
 
-<details>
-  <summary>excel_files/</summary>
+### documentation/
+- PDF reports, course notes, or any written documentation.
 
-  - Excel workbooks with Power Query, Power Pivot, Pivot Tables, and DAX examples.  
-</details>
+### screenshots/
+- Images of dashboards, reports, or key visualizations.
 
-<details>
-  <summary>documentation/</summary>
-
-  - PDF reports, course notes, or any written documentation.  
-</details>
-
-<details>
-  <summary>screenshots/</summary>
-
-  - Images of dashboards, reports, or key visualizations.  
-</details>
-
-<details>
-  <summary>assets/</summary>
-
-  - Logos, icons, or any other supporting files.  
-</details>
-
+### assets/
+- Logos, icons, or any other supporting files.
 
 
 ## 🤝 Contributing
