@@ -1,4 +1,4 @@
-# Excel: Mother of Business Intelligence — Bootcamp Project
+![Screenshot 2025-05-18 152103](https://github.com/user-attachments/assets/32c76d92-54b9-4663-a8b2-6fab3734412f)# Excel: Mother of Business Intelligence — Bootcamp Project
 
 This project was completed as part of the **Excel: Mother of Business Intelligence** course on the Codebasics platform, under the guidance of Dhaval Patel Sir and Hemanand Vadivel Sir from [Code Basics](https://codebasics.io).
 
@@ -81,9 +81,9 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 - Applied conditional formatting, slicers, and filters for user-friendly navigation.  
 - Ensured reports are clear, actionable, and visually appealing for stakeholders.
 
+![Screenshot 2025-05-18 152103](https://github.com/user-attachments/assets/38a4b872-fcc3-452c-b2ac-79f3f6103902)
 
-[1b. Customer Performance Report.pdf](https://github.com/user-attachments/files/20272497/1b.Customer.Performance.Report.pdf)
-
+---
 
 ## 📈 Key Learnings & Insights
 
