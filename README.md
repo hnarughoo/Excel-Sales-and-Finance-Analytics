@@ -1,6 +1,6 @@
 # Excel: Mother of Business Intelligence — Bootcamp Project
 
-This project was completed as part of the **Excel: Mother of Business Intelligence** course on the Codebasics platform, under the guidance of Dhaval Patel Sir and Hemanand Vadivel Sir [Code Basics](https://codebasics.io).
+This project was completed as part of the **Excel: Mother of Business Intelligence** course on the Codebasics platform, under the guidance of Dhaval Patel Sir and Hemanand Vadivel Sir from [Code Basics](https://codebasics.io).
 
 ---
 
@@ -81,7 +81,9 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 - Applied conditional formatting, slicers, and filters for user-friendly navigation.  
 - Ensured reports are clear, actionable, and visually appealing for stakeholders.
 
----
+
+[1b. Customer Performance Report.pdf](https://github.com/user-attachments/files/20272497/1b.Customer.Performance.Report.pdf)
+
 
 ## 📈 Key Learnings & Insights
 
@@ -95,3 +97,48 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
 
 ## 📂 Folder Structure
 
+<details>
+  <summary>data/</summary>
+
+  - Raw and sample data files used in the project.  
+</details>
+
+<details>
+  <summary>excel_files/</summary>
+
+  - Excel workbooks with Power Query, Power Pivot, Pivot Tables, and DAX examples.  
+</details>
+
+<details>
+  <summary>documentation/</summary>
+
+  - PDF reports, course notes, or any written documentation.  
+</details>
+
+<details>
+  <summary>screenshots/</summary>
+
+  - Images of dashboards, reports, or key visualizations.  
+</details>
+
+<details>
+  <summary>assets/</summary>
+
+  - Logos, icons, or any other supporting files.  
+</details>
+
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+Please ensure any changes align with the project objectives and maintain code quality.
+
+---
+
+## 📫 Contact
+
+For questions or collaboration, please reach out via:
+
+- Email: hna.rughoo@gmail.com  
+- LinkedIn: [Vandana Rughoo](https://www.linkedin.com/in/vandana-rughoo-a018aa4a/)
