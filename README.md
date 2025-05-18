@@ -87,25 +87,20 @@ The challenge was to learn and apply advanced Excel tools and best practices to 
   <summary>Click to view report previews</summary>
 
 ### 1. Customer Performance Report  
-[![Customer Performance](assets/screenshots/customer-performance.png)](documentation/Customer%20Performance%20Report.pdf)
+![1  Customer Performance Report](https://github.com/user-attachments/assets/6925705c-4b88-4704-b2e5-3cacaaf8c506)
 
 ### 2. Market Performance vs Target Report  
-[![Market Performance](assets/screenshots/market-performance.png)](documentation/Market%20Performance%20vs%20Target%20Report.pdf)
+![2  Market Performance vs Target Report](https://github.com/user-attachments/assets/aa0ebcfb-382d-4f09-b76d-c53ba5fbeb53)
 
 ### 3. P&L Statement by Fiscal Year  
-[![P&L Fiscal Year](assets/screenshots/pnl-fiscal.png)](documentation/P&L%20Statement%20by%20Fiscal%20Year.pdf)
+![3  P L Statement by Fiscal Year](https://github.com/user-attachments/assets/5584e306-79a9-4412-9284-15b73c8d6d05)
 
 ### 4. P&L Statement by Quarter  
-[![P&L by Quarter](assets/screenshots/pnl-quarter.png)](documentation/P&L%20Statement%20by%20Quarter%20Report.pdf)
+![4  P L Statement by Quarter Report](https://github.com/user-attachments/assets/75dee931-edbc-451d-90e4-91b3e34596cf)
 
 ### 5. P&L Statement by Market  
-[![P&L by Market](assets/screenshots/pnl-market.png)](documentation/P&L%20Statement%20by%20Market%20Report.pdf)
+![5  P L Statement by Market Report](https://github.com/user-attachments/assets/cc053732-6c12-4f70-9403-442ecc0b94af)
 
-</details>
-
-
-
----
 ---
 
 ## 📈 Key Learnings & Insights
